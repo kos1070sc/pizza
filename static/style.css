@@ -1,0 +1,28 @@
+h1{
+    color:aqua;
+}
+
+.pizza_img{
+    width: 500px;
+    box-shadow: 3px 3px;
+    border-radius: 25px;
+
+}
+
+hr{
+    width: 100px;
+    margin: auto;
+    height: 3px;
+    background-color: black;
+}
+
+html{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    outline: auto;
+}
